@@ -19,6 +19,7 @@ Solving Java DSA Questions
 | ------- |
 | [0009-palindrome-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,4 +28,13 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
