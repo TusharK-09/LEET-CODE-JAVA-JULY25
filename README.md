@@ -5,6 +5,7 @@ Solving Java DSA Questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -45,4 +46,8 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1642-water-bottles) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
