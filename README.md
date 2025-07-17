@@ -20,6 +20,7 @@ Solving Java DSA Questions
 | [0009-palindrome-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,8 +34,10 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
