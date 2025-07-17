@@ -5,7 +5,6 @@ class Solution {
         }
         int drank = 0;
         int bottles = numBottles;
-        int bought = 0;
         int empty = 0;
         int remaining = 0;
         while(bottles > 0){
