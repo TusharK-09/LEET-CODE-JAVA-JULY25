@@ -11,9 +11,9 @@ class Solution {
         while(bottles > 0){
             drank = drank + bottles;
             empty = bottles + remaining;
-            bought = empty/numExchange;
+            bottles = empty/numExchange;
             remaining = empty % numExchange;
-            bottles =  bought;
+             
         }
 
         return drank;
