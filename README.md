@@ -8,6 +8,7 @@ Solving Java DSA Questions
 | [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -52,4 +53,12 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
