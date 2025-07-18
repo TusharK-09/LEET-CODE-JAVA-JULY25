@@ -1,29 +1,28 @@
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
-       List<Integer> ans = new ArrayList<>();
+        int p = num.length - 1;
+        List<Integer> ans = new ArrayList<>();
+        int carry = 0;
+        while(k>0 || p >= 0){
+            int numValue = 0;
+            if(p >= 0){
+                numValue = num[p];
+            }
+           int lastDigit = k % 10;
+            int sum = numValue + lastDigit + carry;
+           int  digit_ans = sum % 10;
+            carry = sum / 10;
+            ans.add(digit_ans);
+             
+            p--;
+            k = k / 10;
+        } 
 
-       int p = num.length-1 ;
-       int carry = 0 ;
+        if(carry > 0){
+            ans.add(carry);
+        }
 
-       while(p>=0 || k>0){
-           int numval = 0;
-           if(p>=0){
-               numval = num[p];
-           }
-           int d = k%10; // it is the last digit from k
-           int sum = numval + d + carry;
-           int digit = sum%10;
-           carry = sum/10;
-           ans.add(digit);
-           p--;       // moving the pointer
-           k = k/10 ; // removing the last digit from k
-       }
-
-       if(carry>0){
-           ans.add(carry); // adding carry to the array list
-       }
-
-       Collections.reverse(ans);  // reversing the ans array list
-       return ans ;
+        Collections.reverse(ans);
+        return ans;
      }
 }
