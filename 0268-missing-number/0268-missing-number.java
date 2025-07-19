@@ -1,27 +1,20 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        //first step is to sort
-        for(int i=0; i<nums.length; i++){
-            for(int j=i+1; j<nums.length; j++){
-                if(nums[j] <= nums[i]){
-                    int temp =  nums[i];
-                    nums[i] = nums[j];
-                    nums[j] = temp;
-                    temp = 0;
-                }
-            }
+        //step 1 get sum of range
+        int range = nums.length;
+        int rangeSum = 0;
+            int j=0;
+      for(int i=0; i<=nums.length; i++){
+            rangeSum = rangeSum + i;
         }
 
-        //step 1 get the range
-        int n = nums.length;
-        int missing = 0;
-        int start = 0;
+        //step2 Get Sum of Array elements
+        int arraySum = 0;
         for(int i=0; i<nums.length; i++){
-            if(nums[i] != i){
-                return i;
-            }
+            arraySum = arraySum + nums[i];
         }
 
-        return  n;
+        //step3 Compare array elements sum with  range sum difference is the missing number
+        return  (rangeSum - arraySum);
     }
 }
