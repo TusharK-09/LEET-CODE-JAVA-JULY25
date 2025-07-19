@@ -8,6 +8,7 @@ Solving Java DSA Questions
 | [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
+| [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
@@ -23,6 +24,7 @@ Solving Java DSA Questions
 | ------- |
 | [0009-palindrome-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1236-n-th-tribonacci-number) |
@@ -31,6 +33,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -54,9 +57,11 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -66,6 +71,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
