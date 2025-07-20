@@ -8,6 +8,7 @@ Solving Java DSA Questions
 | [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -76,4 +77,8 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
