@@ -9,6 +9,7 @@ Solving Java DSA Questions
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
@@ -74,6 +75,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -83,5 +85,6 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
