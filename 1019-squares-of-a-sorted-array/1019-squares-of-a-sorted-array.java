@@ -3,8 +3,7 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
         //Brute approach]
         for(int i=0; i<nums.length; i++){
-            int currentElement = nums[i];
-            nums[i] =  nums[i] * currentElement;
+            nums[i] =  nums[i] * nums[i];
         }
         Arrays.sort(nums);
         return nums;
