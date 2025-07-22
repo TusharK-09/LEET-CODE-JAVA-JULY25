@@ -7,6 +7,7 @@ Solving Java DSA Questions
 | ------- |
 | [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,6 +89,7 @@ Solving Java DSA Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
@@ -111,4 +113,8 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0319-bulb-switcher) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
