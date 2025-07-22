@@ -1,6 +1,6 @@
 class Solution {
     public int dominantIndex(int[] nums) {
-        boolean isLargest = true;
+
         //Finding largest
         int max = nums[0];
         int maxIndex = 0;
