@@ -7,12 +7,13 @@ class Solution {
             if(nums[i -1] < nums[i]){
                 current =  current + nums[i];
             } else {
-                    current = nums[i];
+                current = nums[i];
             }
 
             if(current > max){
                 max = current;
             }
+            
             i++;
         }
         return max;
