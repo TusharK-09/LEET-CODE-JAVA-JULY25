@@ -18,6 +18,7 @@ Solving Java DSA Questions
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1927-maximum-ascending-subarray-sum) |
 ## String
 |  |
 | ------- |
