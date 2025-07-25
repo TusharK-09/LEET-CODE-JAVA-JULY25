@@ -1,27 +1,30 @@
+import java.util.HashMap;
+import java.util.Map;
 class Solution {
     public int findLucky(int[] arr) {
-        int largestLucky = -1; 
 
-        for (int i = 0; i < arr.length; i++) {
-            int frequency = 0;
+        HashMap<Integer , Integer> freqElement =  new HashMap<>();
 
-            //frequency count
-            for (int j = 0; j < arr.length; j++) {
-                if (arr[i] == arr[j]) {
-                    frequency++;
-                }
-            }
-
-            // Check if arr[i] is a lucky number
-            if (arr[i] == frequency) {
-               
-                if (arr[i] > largestLucky) {
-                    largestLucky = arr[i];
-                }
-                
-            }
+        //storing arr in HashMap
+        for(int elem : arr){
+            freqElement.put(elem , freqElement.getOrDefault(elem,0) + 1);
         }
 
-        return largestLucky;
+        //counting max frequency element
+        int frequency = 0;
+        int number = -1;
+        int luckyNumber = -1;
+        for(Map.Entry<Integer , Integer> e : freqElement.entrySet()){
+                number = e.getKey();
+                frequency =  e.getValue();
+
+                if(number == frequency){
+                    luckyNumber = number;
+                }
+
+        }
+
+        return luckyNumber;
+
     }
 }
