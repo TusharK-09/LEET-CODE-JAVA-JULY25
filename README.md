@@ -17,6 +17,7 @@ Solving Java DSA Questions
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1927-maximum-ascending-subarray-sum) |
 ## String
@@ -67,6 +68,7 @@ Solving Java DSA Questions
 | ------- |
 | [0001-two-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +122,8 @@ Solving Java DSA Questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
