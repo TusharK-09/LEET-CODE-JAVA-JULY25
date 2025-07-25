@@ -19,7 +19,7 @@ class Solution {
                 frequency =  e.getValue();
 
                 if(number == frequency){
-                    luckyNumber = number;
+                    luckyNumber = Math.max(luckyNumber , number);
                 }
 
         }
