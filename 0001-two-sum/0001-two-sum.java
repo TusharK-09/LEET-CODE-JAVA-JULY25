@@ -6,14 +6,12 @@ class Solution {
             int needed = target - nums[i];
             
             if(map.containsKey(needed)){
-                ans[0] = map.get(needed);
-                ans [1] = i;
-                break;
+                return new int[] {map.get(needed), i};
             }
             
             map.put(nums[i] , i);
         }
         
-        return ans;
+        return new int[]{};
     }
 }
