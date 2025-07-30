@@ -10,6 +10,7 @@ Solving Java DSA Questions
 | [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0238-product-of-array-except-self) |
@@ -55,6 +56,7 @@ Solving Java DSA Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
