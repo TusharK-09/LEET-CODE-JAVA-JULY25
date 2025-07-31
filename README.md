@@ -52,6 +52,7 @@ Solving Java DSA Questions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -137,4 +138,8 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
