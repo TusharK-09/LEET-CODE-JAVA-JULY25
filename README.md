@@ -27,6 +27,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Solving Java DSA Questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
