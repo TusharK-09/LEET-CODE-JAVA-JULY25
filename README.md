@@ -11,6 +11,7 @@ Solving Java DSA Questions
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -113,6 +115,7 @@ Solving Java DSA Questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
