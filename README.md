@@ -28,6 +28,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
@@ -158,4 +159,8 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
