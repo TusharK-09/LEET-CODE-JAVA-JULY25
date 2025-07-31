@@ -30,6 +30,7 @@ Solving Java DSA Questions
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Solving Java DSA Questions
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ Solving Java DSA Questions
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
@@ -151,4 +154,8 @@ Solving Java DSA Questions
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0908-middle-of-the-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
