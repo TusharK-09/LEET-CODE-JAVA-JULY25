@@ -110,6 +110,7 @@ Solving Java DSA Questions
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -145,4 +146,5 @@ Solving Java DSA Questions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
