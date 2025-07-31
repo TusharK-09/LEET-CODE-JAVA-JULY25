@@ -1,16 +1,13 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
-        int start = 0;
-        int end = s.length() - 1;
+        // 1. Convert to lowercase FIRST.
+        // 2. Then, remove all non-alphanumeric characters.
+        String filtered = s.toLowerCase().replaceAll("[^a-z0-9]", "");
 
-        while(start < end){
-            if(s.charAt(start) != s.charAt(end)){
-                return false;
-            }
-            start++;
-            end--;
-        }
-        return true;
+        // 3. Create the reversed version.
+        String reversed = new StringBuilder(filtered).reverse().toString();
+
+        // 4. Compare them.
+        return filtered.equals(reversed);
     }
 }
