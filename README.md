@@ -32,6 +32,7 @@ Solving Java DSA Questions
 | [0020-valid-parentheses](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -82,6 +83,7 @@ Solving Java DSA Questions
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -91,6 +93,7 @@ Solving Java DSA Questions
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
