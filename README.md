@@ -26,6 +26,7 @@ Solving Java DSA Questions
 | [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2058-concatenation-of-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
