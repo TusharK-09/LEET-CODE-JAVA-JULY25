@@ -4,7 +4,7 @@ class Solution {
         int [] ans = new int[nums.length];
         //ans pointer => j
         int j = 0;
-        k = k % nums.length;
+        k = k % nums.length; // => this is to handle if k > length inputs
         //adding rotating elements of k steps at start
         for(int i=nums.length -  k; i<nums.length; i++){
             ans[j] = nums[i];
