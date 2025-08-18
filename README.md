@@ -16,6 +16,7 @@ Solving Java DSA Questions
 | [0088-merge-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0319-bulb-switcher) |
@@ -130,6 +132,7 @@ Solving Java DSA Questions
 | [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0908-middle-of-the-linked-list) |
