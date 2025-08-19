@@ -11,6 +11,7 @@ Solving Java DSA Questions
 | [0014-longest-common-prefix](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ Solving Java DSA Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1013-fibonacci-number) |
@@ -128,6 +130,7 @@ Solving Java DSA Questions
 | [0011-container-with-most-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0141-linked-list-cycle) |
@@ -181,4 +184,9 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
