@@ -1,5 +1,6 @@
 class Solution {
     public int trap(int[] height) {
+
       //keeing track of left and right greatest elements
       int leftMax = 0;
       int rightMax = 0;
@@ -38,6 +39,7 @@ class Solution {
             else{
                 water = water + rightMax - height[right];
             }
+            
             right--;
         }
       }
