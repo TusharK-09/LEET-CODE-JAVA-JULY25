@@ -5,25 +5,36 @@ class Solution {
       int rightMax = 0;
       int water = 0;
       
+      //Two Pointer approach
       int left = 0;
       int right = height.length - 1;
 
       while(left < right){
+        //agr right bda ha toh water kitna hold hoga woh left pr depend krta h
         if(height[left] < height[right]){
-            
+             
+            //check if left max is greatest if no update
             if(height[left] > leftMax){
                 leftMax = height[left];
             }
+            
+            //if leftMax already greater just add it to water
             else{
             water = water + leftMax - height[left];
             }
+
             left++;
         }
 
+        
         else{
+
+            //try updating greatest rightMax
             if(height[right] > rightMax){
                 rightMax = height[right];
             }
+
+            //if already greater add it to the water
             else{
                 water = water + rightMax - height[right];
             }
