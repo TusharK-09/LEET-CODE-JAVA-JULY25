@@ -1,25 +1,25 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        //new ans array
-        int [] ans = new int[nums.length];
-        //ans pointer => j
-        int j = 0;
-        k = k % nums.length; // => this is to handle if k > length inputs
-        //adding rotating elements of k steps at start
-        for(int i=nums.length -  k; i<nums.length; i++){
-            ans[j] = nums[i];
-            j++;
-        }
+       k = k % nums.length;
+       // reverse all
+       reverse(nums ,  0 , nums.length - 1);
 
-        //add start elements of original array to last as per rotation
-        for(int i=0; i< nums.length - k; i++){
-            ans[j] = nums[i];
-            j++;
-        }
+       //reverse first k
+       reverse (nums , 0 , k - 1);
 
-        //copying before returning
-        for(int i=0; i<nums.length; i++){
-            nums[i] = ans[i];
-        }
+       //reverse last after k
+       reverse (nums , k , nums.length - 1);
     }
+
+       //helper for reverse
+       public void reverse(int[] nums , int start , int end){
+        int temp = 0;
+        while(start < end){
+            temp = nums[start];
+            nums[start] =  nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
+        }
+    } 
 }
