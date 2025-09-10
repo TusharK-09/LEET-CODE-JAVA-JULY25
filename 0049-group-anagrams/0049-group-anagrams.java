@@ -1,29 +1,27 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String , List<String>> map = new HashMap<>();
+        Map<String , List<String>> anagramGroups = new HashMap<>();
 
-        for(String word :  strs){
-            int [] count = new int [26];
+        for(String word : strs){
+            int[] charsCount = new int[26];
+
+            //lets make array for a word
             for(char ch : word.toCharArray()){
-                count[ch - 'a']++;
+                charsCount[ch - 'a']++;
             }
 
-            //build key 
-            StringBuilder keyBuilder = new StringBuilder();
+            //lets build unique key for a word by adding the redundation or keeping it unique
+            StringBuilder freqKey = new StringBuilder();
             for(int i=0; i<26; i++){
-                keyBuilder.append("#").append(count[i]);
+                freqKey.append("#").append(charsCount[i]);
             }
 
-            //back to string convert
-            String key = keyBuilder.toString();
+            //convert freqKey back to string type
+            String signature = freqKey.toString();
 
-            if(!map.containsKey(key)){
-                map.put(key , new ArrayList<>());
-            }
-
-            map.get(key).add(word);
+            anagramGroups.putIfAbsent(signature , new ArrayList<>());
+            anagramGroups.get(signature).add(word);
         }
-
-        return new ArrayList<>(map.values());
+        return new ArrayList<>(anagramGroups.values());
     }
 }
