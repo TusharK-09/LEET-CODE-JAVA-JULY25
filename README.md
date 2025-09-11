@@ -24,6 +24,7 @@ Solving Java DSA Questions
 | [0283-move-zeroes](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1031-add-to-array-form-of-integer) |
@@ -98,6 +99,7 @@ Solving Java DSA Questions
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0409-longest-palindrome) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -109,12 +111,14 @@ Solving Java DSA Questions
 | [0217-contains-duplicate](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -128,6 +132,7 @@ Solving Java DSA Questions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +178,7 @@ Solving Java DSA Questions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
@@ -194,4 +200,12 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
