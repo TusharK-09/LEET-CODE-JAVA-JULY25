@@ -32,6 +32,7 @@ Solving Java DSA Questions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/2058-concatenation-of-array) |
+| [2350-find-closest-number-to-zero](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/2350-find-closest-number-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
