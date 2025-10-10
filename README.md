@@ -154,14 +154,17 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0199-binary-tree-right-side-view) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -209,4 +212,8 @@ Solving Java DSA Questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/TusharK-09/LEET-CODE-JAVA-JULY25/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
